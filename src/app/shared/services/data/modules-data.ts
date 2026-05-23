@@ -2057,7 +2057,7 @@ export const Modules = {
   module_gen_prod_claytronics_01: {
     id: 'module_gen_prod_claytronics_01',
     version: 0,
-    name: 'Claytronics Production',
+    name: 'Claytronics Production(电子粘土产线)',
     macro: 'prod_gen_claytronics_macro',
     description: 'No information available',
     type: ModuleTypes.production,

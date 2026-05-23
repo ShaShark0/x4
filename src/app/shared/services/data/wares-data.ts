@@ -78,7 +78,7 @@ export const Wares = {
   antimattercells: {
     id: 'antimattercells',
     version: 0,
-    name: 'Antimatter Cells',
+    name: 'Antimatter Cells(反物质细胞)',
     description: 'Highly advanced magnetic storage devices that carry antimatter. Due to the effect of Hawking radiation and their being self-powered, antimatter cells cannot store antimatter indefinitely. They are produced and filled using refined hydrogen and primarily used in the production of engine parts, and also can be miniaturised to be used in claytronics.',
     factoryName: 'Antimatter Cell Factory',
     icon: 'ware_antimattercells',
@@ -133,7 +133,7 @@ export const Wares = {
   claytronics: {
     id: 'claytronics',
     version: 0,
-    name: 'Claytronics',
+    name: 'Claytronics(电子粘土)',
     description: 'More commonly known as programmable matter, claytronics are made up of millions of individual nanometre-scale computers known as catoms. This technology lives at the heart of any non-Xenon station, used to build anything from internal wiring to computer systems and control mechanisms - effectively everything but the hull of the station itself. Claytronics are always in high-demand, as the universe rebuilds itself after the Jump Gate shutdown.',
     factoryName: 'Claytronics Factory',
     icon: 'ware_claytronics',
@@ -205,7 +205,7 @@ export const Wares = {
   energycells: {
     id: 'energycells',
     version: 0,
-    name: 'Energy Cells',
+    name: 'Energy Cells(能量电池)',
     description: 'Contrary to common belief, Energy Cells are not simply glorified batteries; actually, they are sophisticated bio-chemical (or bio-mechanical, depending on technology) devices capable of storing energy near or at 100% efficiency.',
     factoryName: 'Solar Power Plant',
     icon: 'ware_energycells',
@@ -667,7 +667,7 @@ export const Wares = {
   microchips: {
     id: 'microchips',
     version: 0,
-    name: 'Microchips',
+    name: 'Microchips(微芯片)',
     description: 'Used in a wide variety of equipment parts, micro-chips are produced using silicon wafers, which, while fragile, allows them to conduct at a much higher rate. This, in turn, allows far better processing in the equipment that uses the micro-chips, which includes many advanced electronics and components.',
     factoryName: 'Microchip Factory',
     icon: 'ware_microchips',
@@ -807,7 +807,7 @@ export const Wares = {
   quantumtubes: {
     id: 'quantumtubes',
     version: 0,
-    name: 'Quantum Tubes',
+    name: 'Quantum Tubes(量子管)',
     description: 'An example of complex technology being made cheap through years of continuous research, no one outside of those manufacturing the technology quite knows how quantum tubes work. Though the outer wiring itself it easy to make and understand, the internal structure and what the wiring actually carries must be constructed only by those with countless hours of study and examination under their belts; otherwise risking catastrophic failures that can lead to entire shutdowns of the equipment in which they are used.',
     factoryName: 'Quantum Tube Factory',
     icon: 'ware_quantumtubes',

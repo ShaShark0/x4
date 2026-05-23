@@ -11,24 +11,24 @@
       </trans-unit>
       <trans-unit id="wares" datatype="html">
         <source>Wares</source><target state="final">货物</target>
-        
+
       <context-group purpose="location"><context context-type="sourcefile">app/shared/components/header.component.html</context><context context-type="linenumber">11</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/ware/components/wares.component.html</context><context context-type="linenumber">4</context></context-group></trans-unit>
       <trans-unit id="stationModules" datatype="html">
         <source>Station Modules</source><target state="final">空间站模块</target>
-        
-        
+
+
       <context-group purpose="location"><context context-type="sourcefile">app/shared/components/header.component.html</context><context context-type="linenumber">14</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/station/components/station-calculator.component.html</context><context context-type="linenumber">21</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/module/components/modules.component.html</context><context context-type="linenumber">4</context></context-group></trans-unit>
       <trans-unit id="ships" datatype="html">
         <source>Ships</source><target state="final">舰船</target>
-        
+
       <context-group purpose="location"><context context-type="sourcefile">app/shared/components/header.component.html</context><context context-type="linenumber">17</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/ship/components/ships.component.html</context><context context-type="linenumber">4</context></context-group></trans-unit>
       <trans-unit id="races" datatype="html">
         <source>Races</source><target state="final">种族</target>
-        
+
       <context-group purpose="location"><context context-type="sourcefile">app/shared/components/header.component.html</context><context context-type="linenumber">20</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/races/components/races.component.html</context><context context-type="linenumber">4</context></context-group></trans-unit>
       <trans-unit id="factions" datatype="html">
         <source>Factions</source><target state="final">阵营</target>
-        
+
       <context-group purpose="location"><context context-type="sourcefile">app/shared/components/header.component.html</context><context context-type="linenumber">23</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/faction/components/factions.component.html</context><context context-type="linenumber">4</context></context-group></trans-unit>
       <trans-unit id="ngb.alert.close" datatype="html">
         <source>Close</source><target state="final">Close</target>
@@ -368,6 +368,27 @@ Minutes</target>
           <context context-type="linenumber">35</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="isHeadquarters" datatype="html">
+        <source> Workforce Capacity</source><target state="final">总部(总部因为某种原因需要200劳动力)</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/station/components/station-summary.component.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="actualWorkforce" datatype="html">
+        <source> Workforce Capacity</source><target state="final">实际劳动力:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/station/components/station-summary.component.html</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="isAutoWorkforce" datatype="html">
+        <source> Workforce Capacity</source><target state="final">自动</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/station/components/station-summary.component.html</context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="productionPerHour" datatype="html">
         <source>Production Per Hour</source><target state="final">每小时产品生产量</target>
         <context-group purpose="location">
@@ -418,11 +439,25 @@ Minutes</target>
           <context context-type="linenumber">102</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="provideAllResources" datatype="html">
+        <source>Resources Price:</source><target state="final">资源由其他空间站提供</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/station/components/station-summary.component.html</context>
+          <context context-type="linenumber">197</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="resourcePrice" datatype="html">
         <source>Resources Price:</source><target state="final">资源定价:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/station/components/station-summary.component.html</context>
           <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="productsPrice" datatype="html">
+        <source>Resources Price:</source><target state="final">产品定价:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/station/components/station-summary.component.html</context>
+          <context context-type="linenumber">229</context>
         </context-group>
       </trans-unit>
       <trans-unit id="min" datatype="html">
@@ -587,9 +622,17 @@ Minutes</target>
           <context context-type="sourcefile">app/station/components/station-modules.component.html</context>
           <context context-type="linenumber">35</context>
         </context-group>
-      </trans-unit><trans-unit id="search" datatype="html">
+      </trans-unit>
+      <trans-unit id="autofillModules" datatype="html">
+        <source>Add Module</source><target state="final">自动填充模块</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/station/components/station-modules.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="search" datatype="html">
         <source>Search</source><target state="new">搜索</target>
-        
+
       <context-group purpose="location"><context context-type="sourcefile">app/ware/components/wares.component.html</context><context context-type="linenumber">13</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/module/components/modules.component.html</context><context context-type="linenumber">13</context></context-group></trans-unit>
     </body>
   </file>
