@@ -2461,7 +2461,7 @@ export const Modules = {
   module_gen_prod_microchips_01: {
     id: 'module_gen_prod_microchips_01',
     version: 0,
-    name: 'Microchip Production',
+    name: 'Microchip Production(微芯片产线)',
     macro: 'prod_gen_microchips_macro',
     description: 'No information available',
     type: ModuleTypes.production,

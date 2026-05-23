@@ -384,7 +384,7 @@ export const Wares = {
   hullparts: {
     id: 'hullparts',
     version: 0,
-    name: 'Hull Parts',
+    name: 'Hull Parts(船体部件)',
     description: 'Made from refined metals or teladianium, Hull Parts are most commonly used to build the hulls of ships and stations, though they do have some other uses such as in drones and weapons. Usually layered for additional protection, and using other compounds to further reinforce, Hull Parts are still cheap to produce - a bonus, considering their position as the most frequently used resource in the Jump Gate network.',
     factoryName: 'Hull Part Factory',
     icon: 'ware_hullparts',
@@ -986,7 +986,7 @@ export const Wares = {
   siliconwafers: {
     id: 'siliconwafers',
     version: 0,
-    name: 'Silicon Wafers',
+    name: 'Silicon Wafers(硅晶圆)',
     description: 'If a technology requires any kind of chip, it is highly likely that is uses silicon wafers. Light, efficient and cheap to produce, these wafers are usually layered or constructed in hexagonal meshes to allow for quick transfer of data across a component.',
     factoryName: 'Silicon Refinery',
     icon: 'ware_siliconwafers',
