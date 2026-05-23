@@ -4,6 +4,12 @@
   "newProjectRoot": "projects",
   "projects": {
     "x4-new": {
+      "i18n": {
+        "sourceLocale": "en-US",
+        "locales": {
+          "zh-Hans": { "translation": "src/i18n/messages.zh-Hans.xlf" }
+        }
+      },
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -39,6 +45,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
+            "localize": ["zh-Hans"],
             "outputPath": "dist/x4-new",
             "index": "src/index.html",
             "main": "src/main.ts",
@@ -130,5 +137,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
