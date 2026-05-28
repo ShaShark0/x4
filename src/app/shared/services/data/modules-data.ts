@@ -11,7 +11,7 @@ export const Modules = {
   module_arg_conn_base_01: {
     id: 'module_arg_conn_base_01',
     version: 0,
-    name: 'Argon Base Connection Structure 01',
+    name: 'Argon Base Connection Structure 01 (Argon 基础连接结构 01)',
     macro: 'struct_arg_base_01_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -39,7 +39,7 @@ export const Modules = {
   module_arg_conn_base_02: {
     id: 'module_arg_conn_base_02',
     version: 0,
-    name: 'Argon Base Connection Structure 02',
+    name: 'Argon Base Connection Structure 02 (Argon 基础连接结构 02)',
     macro: 'struct_arg_base_02_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -67,7 +67,7 @@ export const Modules = {
   module_arg_conn_base_03: {
     id: 'module_arg_conn_base_03',
     version: 0,
-    name: 'Argon Base Connection Structure 03',
+    name: 'Argon Base Connection Structure 03 (Argon 基础连接结构 03)',
     macro: 'struct_arg_base_03_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -95,7 +95,7 @@ export const Modules = {
   module_arg_conn_cross_01: {
     id: 'module_arg_conn_cross_01',
     version: 0,
-    name: 'Argon Cross Connection Structure 01',
+    name: 'Argon Cross Connection Structure 01 (Argon 交叉连接结构 01)',
     macro: 'struct_arg_cross_01_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -123,7 +123,7 @@ export const Modules = {
   module_arg_conn_vertical_01: {
     id: 'module_arg_conn_vertical_01',
     version: 0,
-    name: 'Argon Vertical Connection Structure 01',
+    name: 'Argon Vertical Connection Structure 01 (Argon 垂直连接结构 01)',
     macro: 'struct_arg_vertical_01_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -151,7 +151,7 @@ export const Modules = {
   module_arg_conn_vertical_02: {
     id: 'module_arg_conn_vertical_02',
     version: 0,
-    name: 'Argon Vertical Connection Structure 02',
+    name: 'Argon Vertical Connection Structure 02 (Argon 垂直连接结构 02)',
     macro: 'struct_arg_vertical_02_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -179,7 +179,7 @@ export const Modules = {
   module_arg_def_claim_01: {
     id: 'module_arg_def_claim_01',
     version: 0,
-    name: 'Argon Administrative Centre',
+    name: 'Argon Administrative Centre (Argon 管理中心)',
     macro: 'defence_arg_claim_01_macro',
     description: 'No information available',
     type: ModuleTypes.defencemodule,
@@ -855,7 +855,7 @@ export const Modules = {
   module_arg_prod_meat_01: {
     id: 'module_arg_prod_meat_01',
     version: 0,
-    name: 'Meat Production',
+    name: 'Meat Production (肉类产线)',
     macro: 'prod_arg_meat_macro',
     description: 'No information available',
     type: ModuleTypes.production,
@@ -910,7 +910,7 @@ export const Modules = {
   module_arg_prod_medicalsupplies_01: {
     id: 'module_arg_prod_medicalsupplies_01',
     version: 0,
-    name: 'Argon Medical Supply Production',
+    name: 'Argon Medical Supply Production (Argon 医疗用品产线)',
     macro: 'prod_arg_medicalsupplies_macro',
     description: 'No information available',
     type: ModuleTypes.production,
@@ -1070,7 +1070,7 @@ export const Modules = {
   module_arg_stor_container_l_01: {
     id: 'module_arg_stor_container_l_01',
     version: 0,
-    name: 'Argon L Container Storage',
+    name: 'Argon L Container Storage (Argon L 集装存储)',
     macro: 'storage_arg_l_container_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -1128,7 +1128,7 @@ export const Modules = {
   module_arg_stor_container_m_01: {
     id: 'module_arg_stor_container_m_01',
     version: 0,
-    name: 'Argon M Container Storage',
+    name: 'Argon M Container Storage (Argon M 集装存储)',
     macro: 'storage_arg_m_container_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -1174,7 +1174,7 @@ export const Modules = {
   module_arg_stor_container_s_01: {
     id: 'module_arg_stor_container_s_01',
     version: 0,
-    name: 'Argon S Container Storage',
+    name: 'Argon S Container Storage (Argon S 集装存储)',
     macro: 'storage_arg_s_container_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -1217,7 +1217,7 @@ export const Modules = {
   module_arg_stor_liquid_l_01: {
     id: 'module_arg_stor_liquid_l_01',
     version: 0,
-    name: 'Argon L Liquid Storage',
+    name: 'Argon L Liquid Storage (Argon L 液体存储)',
     macro: 'storage_arg_l_liquid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -1275,7 +1275,7 @@ export const Modules = {
   module_arg_stor_liquid_m_01: {
     id: 'module_arg_stor_liquid_m_01',
     version: 0,
-    name: 'Argon M Liquid Storage',
+    name: 'Argon M Liquid Storage (Argon M 液体存储)',
     macro: 'storage_arg_m_liquid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -1321,7 +1321,7 @@ export const Modules = {
   module_arg_stor_liquid_s_01: {
     id: 'module_arg_stor_liquid_s_01',
     version: 0,
-    name: 'Argon S Liquid Storage',
+    name: 'Argon S Liquid Storage (Argon S 液体存储)',
     macro: 'storage_arg_s_liquid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -1361,7 +1361,7 @@ export const Modules = {
   module_arg_stor_solid_l_01: {
     id: 'module_arg_stor_solid_l_01',
     version: 0,
-    name: 'Argon L Solid Storage',
+    name: 'Argon L Solid Storage (Argon L 固体存储)',
     macro: 'storage_arg_l_solid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -1419,7 +1419,7 @@ export const Modules = {
   module_arg_stor_solid_m_01: {
     id: 'module_arg_stor_solid_m_01',
     version: 0,
-    name: 'Argon M Solid Storage',
+    name: 'Argon M Solid Storage (Argon M 固体存储)',
     macro: 'storage_arg_m_solid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -1465,7 +1465,7 @@ export const Modules = {
   module_arg_stor_solid_s_01: {
     id: 'module_arg_stor_solid_s_01',
     version: 0,
-    name: 'Argon S Solid Storage',
+    name: 'Argon S Solid Storage (Argon S 固体存储)',
     macro: 'storage_arg_s_solid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -1813,7 +1813,7 @@ export const Modules = {
   module_gen_prod_advancedcomposites_01: {
     id: 'module_gen_prod_advancedcomposites_01',
     version: 0,
-    name: 'Advanced Composite Production',
+    name: '先进复合材料产线',
     macro: 'prod_gen_advancedcomposites_macro',
     description: 'No information available',
     type: ModuleTypes.production,
@@ -1935,7 +1935,7 @@ export const Modules = {
   module_gen_prod_antimattercells_01: {
     id: 'module_gen_prod_antimattercells_01',
     version: 0,
-    name: 'Antimatter Cell Production',
+    name: '反物质细胞产线',
     macro: 'prod_gen_antimattercells_macro',
     description: 'No information available',
     type: ModuleTypes.production,
@@ -2176,7 +2176,7 @@ export const Modules = {
   module_gen_prod_energycells_01: {
     id: 'module_gen_prod_energycells_01',
     version: 0,
-    name: 'Energy Cell Production',
+    name: '能量电池产线',
     macro: 'prod_gen_energycells_macro',
     description: 'No information available',
     type: ModuleTypes.production,
@@ -2339,7 +2339,7 @@ export const Modules = {
   module_gen_prod_graphene_01: {
     id: 'module_gen_prod_graphene_01',
     version: 0,
-    name: 'Graphene Production',
+    name: '石墨烯产线',
     macro: 'prod_gen_graphene_macro',
     description: 'No information available',
     type: ModuleTypes.production,
@@ -2698,7 +2698,7 @@ export const Modules = {
   module_gen_prod_refinedmetals_01: {
     id: 'module_gen_prod_refinedmetals_01',
     version: 0,
-    name: 'Refined Metal Production',
+    name: '精炼金属产线',
     macro: 'prod_gen_refinedmetals_macro',
     description: 'No information available',
     type: ModuleTypes.production,
@@ -2940,7 +2940,7 @@ export const Modules = {
   module_gen_prod_siliconwafers_01: {
     id: 'module_gen_prod_siliconwafers_01',
     version: 0,
-    name: 'Silicon Wafer Production',
+    name: '硅晶圆产线',
     macro: 'prod_gen_siliconwafers_macro',
     description: 'No information available',
     type: ModuleTypes.production,
@@ -3107,7 +3107,7 @@ export const Modules = {
   module_gen_prod_superfluidcoolant_01: {
     id: 'module_gen_prod_superfluidcoolant_01',
     version: 0,
-    name: 'Superfluid Coolant Production',
+    name: '超流冷却剂产线',
     macro: 'prod_gen_superfluidcoolant_macro',
     description: 'No information available',
     type: ModuleTypes.production,
@@ -3221,7 +3221,7 @@ export const Modules = {
   module_gen_prod_water_01: {
     id: 'module_gen_prod_water_01',
     version: 0,
-    name: 'Water Production',
+    name: '水 产线',
     macro: 'prod_gen_water_macro',
     description: 'No information available',
     type: ModuleTypes.production,
@@ -3341,7 +3341,7 @@ export const Modules = {
   module_par_conn_base_01: {
     id: 'module_par_conn_base_01',
     version: 0,
-    name: 'Paranid Base Connection Structure 01',
+    name: 'Paranid Base Connection Structure 01 (Paranid 基础连接结构 01)',
     macro: 'struct_par_base_01_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -3370,7 +3370,7 @@ export const Modules = {
   module_par_conn_base_02: {
     id: 'module_par_conn_base_02',
     version: 0,
-    name: 'Paranid Base Connection Structure 02',
+    name: 'Paranid Base Connection Structure 02 (Paranid 基础连接结构 02)',
     macro: 'struct_par_base_02_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -3399,7 +3399,7 @@ export const Modules = {
   module_par_conn_base_03: {
     id: 'module_par_conn_base_03',
     version: 0,
-    name: 'Paranid Base Connection Structure 03',
+    name: 'Paranid Base Connection Structure 03 (Paranid 基础连接结构 03)',
     macro: 'struct_par_base_03_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -3428,7 +3428,7 @@ export const Modules = {
   module_par_conn_cross_01: {
     id: 'module_par_conn_cross_01',
     version: 0,
-    name: 'Paranid Cross Connection Structure 01',
+    name: 'Paranid Cross Connection Structure 01 (Paranid 交叉连接结构 01)',
     macro: 'struct_par_cross_01_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -3457,7 +3457,7 @@ export const Modules = {
   module_par_conn_cross_02: {
     id: 'module_par_conn_cross_02',
     version: 0,
-    name: 'Paranid Cross Connection Structure 02',
+    name: 'Paranid Cross Connection Structure 02 (Paranid 交叉连接结构 02)',
     macro: 'struct_par_cross_02_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -3486,7 +3486,7 @@ export const Modules = {
   module_par_conn_cross_03: {
     id: 'module_par_conn_cross_03',
     version: 0,
-    name: 'Paranid Cross Connection Structure 03',
+    name: 'Paranid Cross Connection Structure 03 (Paranid 交叉连接结构 03)',
     macro: 'struct_par_cross_03_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -3515,7 +3515,7 @@ export const Modules = {
   module_par_conn_vertical_01: {
     id: 'module_par_conn_vertical_01',
     version: 0,
-    name: 'Paranid Vertical Connection Structure 01',
+    name: 'Paranid Vertical Connection Structure 01 (Paranid 垂直连接结构 01)',
     macro: 'struct_par_vertical_01_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -3544,7 +3544,7 @@ export const Modules = {
   module_par_conn_vertical_02: {
     id: 'module_par_conn_vertical_02',
     version: 0,
-    name: 'Paranid Vertical Connection Structure 02',
+    name: 'Paranid Vertical Connection Structure 02 (Paranid 垂直连接结构 02)',
     macro: 'struct_par_vertical_02_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -3573,7 +3573,7 @@ export const Modules = {
   module_par_def_claim_01: {
     id: 'module_par_def_claim_01',
     version: 0,
-    name: 'Paranid Administrative Centre',
+    name: 'Paranid Administrative Centre (Paranid 管理中心)',
     macro: 'defence_par_claim_01_macro',
     description: 'No information available',
     type: ModuleTypes.defencemodule,
@@ -4010,7 +4010,7 @@ export const Modules = {
   module_par_prod_medicalsupplies_01: {
     id: 'module_par_prod_medicalsupplies_01',
     version: 0,
-    name: 'Paranid Medical Supply Production',
+    name: 'Paranid Medical Supply Production (Paranid 医疗用品产线)',
     macro: 'prod_par_medicalsupplies_macro',
     description: 'No information available',
     type: ModuleTypes.production,
@@ -4172,7 +4172,7 @@ export const Modules = {
   module_par_stor_container_l_01: {
     id: 'module_par_stor_container_l_01',
     version: 0,
-    name: 'Paranid L Container Storage',
+    name: 'Paranid L Container Storage (Paranid L 集装存储)',
     macro: 'storage_par_l_container_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -4219,7 +4219,7 @@ export const Modules = {
   module_par_stor_container_m_01: {
     id: 'module_par_stor_container_m_01',
     version: 0,
-    name: 'Paranid M Container Storage',
+    name: 'Paranid M Container Storage (Paranid M 集装存储)',
     macro: 'storage_par_m_container_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -4266,7 +4266,7 @@ export const Modules = {
   module_par_stor_container_s_01: {
     id: 'module_par_stor_container_s_01',
     version: 0,
-    name: 'Paranid S Container Storage',
+    name: 'Paranid S Container Storage (Paranid S 集装存储)',
     macro: 'storage_par_s_container_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -4313,7 +4313,7 @@ export const Modules = {
   module_par_stor_liquid_l_01: {
     id: 'module_par_stor_liquid_l_01',
     version: 0,
-    name: 'Paranid L Liquid Storage',
+    name: 'Paranid L Liquid Storage (Paranid L 液体存储)',
     macro: 'storage_par_l_liquid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -4360,7 +4360,7 @@ export const Modules = {
   module_par_stor_liquid_m_01: {
     id: 'module_par_stor_liquid_m_01',
     version: 0,
-    name: 'Paranid M Liquid Storage',
+    name: 'Paranid M Liquid Storage (Paranid M 液体存储)',
     macro: 'storage_par_m_liquid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -4407,7 +4407,7 @@ export const Modules = {
   module_par_stor_liquid_s_01: {
     id: 'module_par_stor_liquid_s_01',
     version: 0,
-    name: 'Paranid S Liquid Storage',
+    name: 'Paranid S Liquid Storage (Paranid S 液体存储)',
     macro: 'storage_par_s_liquid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -4454,7 +4454,7 @@ export const Modules = {
   module_par_stor_solid_l_01: {
     id: 'module_par_stor_solid_l_01',
     version: 0,
-    name: 'Paranid L Solid Storage',
+    name: 'Paranid L Solid Storage (Paranid L 固体存储)',
     macro: 'storage_par_l_solid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -4501,7 +4501,7 @@ export const Modules = {
   module_par_stor_solid_m_01: {
     id: 'module_par_stor_solid_m_01',
     version: 0,
-    name: 'Paranid M Solid Storage',
+    name: 'Paranid M Solid Storage (Paranid M 固体存储)',
     macro: 'storage_par_m_solid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -4548,7 +4548,7 @@ export const Modules = {
   module_par_stor_solid_s_01: {
     id: 'module_par_stor_solid_s_01',
     version: 0,
-    name: 'Paranid S Solid Storage',
+    name: 'Paranid S Solid Storage (Paranid S 固体存储)',
     macro: 'storage_par_s_solid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -4595,7 +4595,7 @@ export const Modules = {
   module_tel_conn_base_01: {
     id: 'module_tel_conn_base_01',
     version: 0,
-    name: 'Teladi Base Connection Structure 01',
+    name: 'Teladi Base Connection Structure 01 (Teladi 基础连接结构 01)',
     macro: 'struct_tel_base_01_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -4622,7 +4622,7 @@ export const Modules = {
   module_tel_conn_base_02: {
     id: 'module_tel_conn_base_02',
     version: 0,
-    name: 'Teladi Base Connection Structure 02',
+    name: 'Teladi Base Connection Structure 02 (Teladi 基础连接结构 02)',
     macro: 'struct_tel_base_02_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -4649,7 +4649,7 @@ export const Modules = {
   module_tel_conn_base_03: {
     id: 'module_tel_conn_base_03',
     version: 0,
-    name: 'Teladi Base Connection Structure 03',
+    name: 'Teladi Base Connection Structure 03 (Teladi 基础连接结构 03)',
     macro: 'struct_tel_base_03_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -4676,7 +4676,7 @@ export const Modules = {
   module_tel_conn_cross_01: {
     id: 'module_tel_conn_cross_01',
     version: 0,
-    name: 'Teladi Cross Connection Structure 01',
+    name: 'Teladi Cross Connection Structure 01 (Teladi 交叉连接结构 01)',
     macro: 'struct_tel_cross_01_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -4703,7 +4703,7 @@ export const Modules = {
   module_tel_conn_vertical_01: {
     id: 'module_tel_conn_vertical_01',
     version: 0,
-    name: 'Teladi Vertical Connection Structure 01',
+    name: 'Teladi Vertical Connection Structure 01 (Teladi 垂直连接结构 01)',
     macro: 'struct_tel_vertical_01_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -4730,7 +4730,7 @@ export const Modules = {
   module_tel_conn_vertical_02: {
     id: 'module_tel_conn_vertical_02',
     version: 0,
-    name: 'Teladi Vertical Connection Structure 02',
+    name: 'Teladi Vertical Connection Structure 02 (Teladi 垂直连接结构 02)',
     macro: 'struct_tel_vertical_02_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -4757,7 +4757,7 @@ export const Modules = {
   module_tel_def_claim_01: {
     id: 'module_tel_def_claim_01',
     version: 0,
-    name: 'Teladi Administrative Centre',
+    name: 'Teladi Administrative Centre (Teladi 管理中心)',
     macro: 'defence_tel_claim_01_macro',
     description: 'No information available',
     type: ModuleTypes.defencemodule,
@@ -5245,7 +5245,7 @@ export const Modules = {
   module_tel_prod_medicalsupplies_01: {
     id: 'module_tel_prod_medicalsupplies_01',
     version: 0,
-    name: 'Teladi Medical Supply Production',
+    name: 'Teladi Medical Supply Production (Teladi 医疗用品产线)',
     macro: 'prod_tel_medicalsupplies_macro',
     description: 'No information available',
     type: ModuleTypes.production,
@@ -5607,7 +5607,7 @@ export const Modules = {
   module_tel_stor_container_l_01: {
     id: 'module_tel_stor_container_l_01',
     version: 0,
-    name: 'Teladi L Container Storage',
+    name: 'Teladi L Container Storage (Teladi L 集装存储)',
     macro: 'storage_tel_l_container_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -5664,7 +5664,7 @@ export const Modules = {
   module_tel_stor_container_m_01: {
     id: 'module_tel_stor_container_m_01',
     version: 0,
-    name: 'Teladi M Container Storage',
+    name: 'Teladi M Container Storage (Teladi M 集装存储)',
     macro: 'storage_tel_m_container_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -5715,7 +5715,7 @@ export const Modules = {
   module_tel_stor_container_s_01: {
     id: 'module_tel_stor_container_s_01',
     version: 0,
-    name: 'Teladi S Container Storage',
+    name: 'Teladi S Container Storage (Teladi S 集装存储)',
     macro: 'storage_tel_s_container_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -5763,7 +5763,7 @@ export const Modules = {
   module_tel_stor_liquid_l_01: {
     id: 'module_tel_stor_liquid_l_01',
     version: 0,
-    name: 'Teladi L Liquid Storage',
+    name: 'Teladi L Liquid Storage (Teladi L 液体存储)',
     macro: 'storage_tel_l_liquid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -5820,7 +5820,7 @@ export const Modules = {
   module_tel_stor_liquid_m_01: {
     id: 'module_tel_stor_liquid_m_01',
     version: 0,
-    name: 'Teladi M Liquid Storage',
+    name: 'Teladi M Liquid Storage (Teladi M 液体存储)',
     macro: 'storage_tel_m_liquid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -5871,7 +5871,7 @@ export const Modules = {
   module_tel_stor_liquid_s_01: {
     id: 'module_tel_stor_liquid_s_01',
     version: 0,
-    name: 'Teladi S Liquid Storage',
+    name: 'Teladi S Liquid Storage (Teladi S 液体存储)',
     macro: 'storage_tel_s_liquid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -5919,7 +5919,7 @@ export const Modules = {
   module_tel_stor_solid_l_01: {
     id: 'module_tel_stor_solid_l_01',
     version: 0,
-    name: 'Teladi L Solid Storage',
+    name: 'Teladi L Solid Storage (Teladi L 固体存储)',
     macro: 'storage_tel_l_solid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -5976,7 +5976,7 @@ export const Modules = {
   module_tel_stor_solid_m_01: {
     id: 'module_tel_stor_solid_m_01',
     version: 0,
-    name: 'Teladi M Solid Storage',
+    name: 'Teladi M Solid Storage (Teladi M 固体存储)',
     macro: 'storage_tel_m_solid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -6027,7 +6027,7 @@ export const Modules = {
   module_tel_stor_solid_s_01: {
     id: 'module_tel_stor_solid_s_01',
     version: 0,
-    name: 'Teladi S Solid Storage',
+    name: 'Teladi S Solid Storage (Teladi S 固体存储)',
     macro: 'storage_tel_s_solid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -6075,7 +6075,7 @@ export const Modules = {
   module_spl_conn_base_01: {
     id: 'module_spl_conn_base_01',
     version: 1,
-    name: 'Split Base Connection Structure 01',
+    name: 'Split Base Connection Structure 01 (Split 基础连接结构 01)',
     macro: 'struct_spl_base_01_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -6103,7 +6103,7 @@ export const Modules = {
   module_spl_conn_base_02: {
     id: 'module_spl_conn_base_02',
     version: 1,
-    name: 'Split Base Connection Structure 02',
+    name: 'Split Base Connection Structure 02 (Split 基础连接结构 02)',
     macro: 'struct_spl_base_02_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -6131,7 +6131,7 @@ export const Modules = {
   module_spl_conn_base_03: {
     id: 'module_spl_conn_base_03',
     version: 1,
-    name: 'Split Base Connection Structure 03',
+    name: 'Split Base Connection Structure 03 (Split 基础连接结构 03)',
     macro: 'struct_spl_base_03_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -6159,7 +6159,7 @@ export const Modules = {
   module_spl_conn_cross_01: {
     id: 'module_spl_conn_cross_01',
     version: 1,
-    name: 'Split Cross Connection Structure 01',
+    name: 'Split Cross Connection Structure 01 (Split 交叉连接结构 01)',
     macro: 'struct_spl_cross_01_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -6187,7 +6187,7 @@ export const Modules = {
   module_spl_conn_vertical_01: {
     id: 'module_spl_conn_vertical_01',
     version: 1,
-    name: 'Split Vertical Connection Structure 01',
+    name: 'Split Vertical Connection Structure 01 (Split 垂直连接结构 01)',
     macro: 'struct_spl_vertical_01_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -6215,7 +6215,7 @@ export const Modules = {
   module_spl_conn_vertical_02: {
     id: 'module_spl_conn_vertical_02',
     version: 1,
-    name: 'Split Vertical Connection Structure 02',
+    name: 'Split Vertical Connection Structure 02 (Split 垂直连接结构 02)',
     macro: 'struct_spl_vertical_02_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -6243,7 +6243,7 @@ export const Modules = {
   module_spl_def_claim_01: {
     id: 'module_spl_def_claim_01',
     version: 1,
-    name: 'Split Administrative Centre',
+    name: 'Split Administrative Centre (Split 管理中心)',
     macro: 'defence_spl_claim_01_macro',
     description: 'No information available',
     type: ModuleTypes.defencemodule,
@@ -6639,7 +6639,7 @@ export const Modules = {
   module_spl_prod_medicalsupplies_01: {
     id: 'module_spl_prod_medicalsupplies_01',
     version: 1,
-    name: 'Split Medical Supply Production',
+    name: 'Split Medical Supply Production (Split 医疗用品产线)',
     macro: 'prod_spl_medicalsupplies_macro',
     description: 'No information available',
     type: ModuleTypes.production,
@@ -6745,7 +6745,7 @@ export const Modules = {
   module_spl_stor_container_l_01: {
     id: 'module_spl_stor_container_l_01',
     version: 1,
-    name: 'Split L Container Storage',
+    name: 'Split L Container Storage (Split L 集装存储)',
     macro: 'storage_spl_l_container_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -6803,7 +6803,7 @@ export const Modules = {
   module_spl_stor_container_m_01: {
     id: 'module_spl_stor_container_m_01',
     version: 1,
-    name: 'Split M Container Storage',
+    name: 'Split M Container Storage (Split M 集装存储)',
     macro: 'storage_spl_m_container_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -6849,7 +6849,7 @@ export const Modules = {
   module_spl_stor_container_s_01: {
     id: 'module_spl_stor_container_s_01',
     version: 1,
-    name: 'Split S Container Storage',
+    name: 'Split S Container Storage (Split S 集装存储)',
     macro: 'storage_spl_s_container_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -6892,7 +6892,7 @@ export const Modules = {
   module_spl_stor_liquid_l_01: {
     id: 'module_spl_stor_liquid_l_01',
     version: 1,
-    name: 'Split L Liquid Storage',
+    name: 'Split L Liquid Storage (Split L 液体存储)',
     macro: 'storage_spl_l_liquid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -6950,7 +6950,7 @@ export const Modules = {
   module_spl_stor_liquid_m_01: {
     id: 'module_spl_stor_liquid_m_01',
     version: 1,
-    name: 'Split M Liquid Storage',
+    name: 'Split M Liquid Storage (Split M 液体存储)',
     macro: 'storage_spl_m_liquid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -6996,7 +6996,7 @@ export const Modules = {
   module_spl_stor_liquid_s_01: {
     id: 'module_spl_stor_liquid_s_01',
     version: 1,
-    name: 'Split S Liquid Storage',
+    name: 'Split S Liquid Storage (Split S 液体存储)',
     macro: 'storage_spl_s_liquid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -7039,7 +7039,7 @@ export const Modules = {
   module_spl_stor_solid_l_01: {
     id: 'module_spl_stor_solid_l_01',
     version: 1,
-    name: 'Split L Solid Storage',
+    name: 'Split L Solid Storage (Split L 固体存储)',
     macro: 'storage_spl_l_solid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -7097,7 +7097,7 @@ export const Modules = {
   module_spl_stor_solid_m_01: {
     id: 'module_spl_stor_solid_m_01',
     version: 1,
-    name: 'Split M Solid Storage',
+    name: 'Split M Solid Storage (Split M 固体存储)',
     macro: 'storage_spl_m_solid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -7143,7 +7143,7 @@ export const Modules = {
   module_spl_stor_solid_s_01: {
     id: 'module_spl_stor_solid_s_01',
     version: 1,
-    name: 'Split S Solid Storage',
+    name: 'Split S Solid Storage (Split S 固体存储)',
     macro: 'storage_spl_s_solid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -7287,7 +7287,7 @@ export const Modules = {
   module_ter_conn_base_01: {
     id: 'module_ter_conn_base_01',
     version: 1,
-    name: 'Terran Base Connection Structure 01',
+    name: 'Terran Base Connection Structure 01 (Terran 基础连接结构 01)',
     macro: 'struct_ter_base_01_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -7315,7 +7315,7 @@ export const Modules = {
   module_ter_conn_base_02: {
     id: 'module_ter_conn_base_02',
     version: 1,
-    name: 'Terran Base Connection Structure 02',
+    name: 'Terran Base Connection Structure 02 (Terran 基础连接结构 02)',
     macro: 'struct_ter_base_02_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -7343,7 +7343,7 @@ export const Modules = {
   module_ter_conn_base_03: {
     id: 'module_ter_conn_base_03',
     version: 1,
-    name: 'Terran Base Connection Structure 03',
+    name: 'Terran Base Connection Structure 03 (Terran 基础连接结构 03)',
     macro: 'struct_ter_base_03_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -7371,7 +7371,7 @@ export const Modules = {
   module_ter_conn_cross_01: {
     id: 'module_ter_conn_cross_01',
     version: 1,
-    name: 'Terran Cross Connection Structure 01',
+    name: 'Terran Cross Connection Structure 01 (Terran 交叉连接结构 01)',
     macro: 'struct_ter_cross_01_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -7399,7 +7399,7 @@ export const Modules = {
   module_ter_conn_vertical_01: {
     id: 'module_ter_conn_vertical_01',
     version: 1,
-    name: 'Terran Vertical Connection Structure 01',
+    name: 'Terran Vertical Connection Structure 01 (Terran 垂直连接结构 01)',
     macro: 'struct_ter_vertical_01_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -7427,7 +7427,7 @@ export const Modules = {
   module_ter_conn_vertical_02: {
     id: 'module_ter_conn_vertical_02',
     version: 1,
-    name: 'Terran Vertical Connection Structure 02',
+    name: 'Terran Vertical Connection Structure 02 (Terran 垂直连接结构 02)',
     macro: 'struct_ter_vertical_02_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -7455,7 +7455,7 @@ export const Modules = {
   module_ter_def_claim_01: {
     id: 'module_ter_def_claim_01',
     version: 1,
-    name: 'Terran Administrative Centre',
+    name: 'Terran Administrative Centre (Terran 管理中心)',
     macro: 'defence_ter_claim_01_macro',
     description: 'No information available',
     type: ModuleTypes.defencemodule,
@@ -8050,7 +8050,7 @@ export const Modules = {
   module_ter_prod_energycells_01: {
     id: 'module_ter_prod_energycells_01',
     version: 1,
-    name: 'Terran Energy Cell Production',
+    name: 'Terran 能量电池产线',
     macro: 'prod_ter_energycells_macro',
     description: 'No information available',
     type: ModuleTypes.production,
@@ -8083,7 +8083,7 @@ export const Modules = {
   module_ter_prod_medicalsupplies_01: {
     id: 'module_ter_prod_medicalsupplies_01',
     version: 1,
-    name: 'Terran Medical Supply Production',
+    name: 'Terran Medical Supply Production (Terran 医疗用品产线)',
     macro: 'prod_ter_medicalsupplies_macro',
     description: 'No information available',
     type: ModuleTypes.production,
@@ -8434,7 +8434,7 @@ export const Modules = {
   module_ter_stor_container_l_01: {
     id: 'module_ter_stor_container_l_01',
     version: 1,
-    name: 'Terran L Container Storage',
+    name: 'Terran L Container Storage (Terran L 集装存储)',
     macro: 'storage_ter_l_container_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -8492,7 +8492,7 @@ export const Modules = {
   module_ter_stor_container_m_01: {
     id: 'module_ter_stor_container_m_01',
     version: 1,
-    name: 'Terran M Container Storage',
+    name: 'Terran M Container Storage (Terran M 集装存储)',
     macro: 'storage_ter_m_container_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -8538,7 +8538,7 @@ export const Modules = {
   module_ter_stor_container_s_01: {
     id: 'module_ter_stor_container_s_01',
     version: 1,
-    name: 'Terran S Container Storage',
+    name: 'Terran S Container Storage (Terran S 集装存储)',
     macro: 'storage_ter_s_container_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -8584,7 +8584,7 @@ export const Modules = {
   module_ter_stor_liquid_l_01: {
     id: 'module_ter_stor_liquid_l_01',
     version: 1,
-    name: 'Terran L Liquid Storage',
+    name: 'Terran L Liquid Storage (Terran L 液体存储)',
     macro: 'storage_ter_l_liquid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -8630,7 +8630,7 @@ export const Modules = {
   module_ter_stor_liquid_m_01: {
     id: 'module_ter_stor_liquid_m_01',
     version: 1,
-    name: 'Terran M Liquid Storage',
+    name: 'Terran M Liquid Storage (Terran M 液体存储)',
     macro: 'storage_ter_m_liquid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -8676,7 +8676,7 @@ export const Modules = {
   module_ter_stor_liquid_s_01: {
     id: 'module_ter_stor_liquid_s_01',
     version: 1,
-    name: 'Terran S Liquid Storage',
+    name: 'Terran S Liquid Storage (Terran S 液体存储)',
     macro: 'storage_ter_s_liquid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -8722,7 +8722,7 @@ export const Modules = {
   module_ter_stor_solid_l_01: {
     id: 'module_ter_stor_solid_l_01',
     version: 1,
-    name: 'Terran L Solid Storage',
+    name: 'Terran L Solid Storage (Terran L 固体存储)',
     macro: 'storage_ter_l_solid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -8780,7 +8780,7 @@ export const Modules = {
   module_ter_stor_solid_m_01: {
     id: 'module_ter_stor_solid_m_01',
     version: 1,
-    name: 'Terran M Solid Storage',
+    name: 'Terran M Solid Storage (Terran M 固体存储)',
     macro: 'storage_ter_m_solid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -8826,7 +8826,7 @@ export const Modules = {
   module_ter_stor_solid_s_01: {
     id: 'module_ter_stor_solid_s_01',
     version: 1,
-    name: 'Terran S Solid Storage',
+    name: 'Terran S Solid Storage (Terran S 固体存储)',
     macro: 'storage_ter_s_solid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -9121,7 +9121,7 @@ export const Modules = {
   module_bor_conn_base_01: {
     id: 'module_bor_conn_base_01',
     version: 1,
-    name: 'Boron Base Connection Structure 01',
+    name: 'Boron Base Connection Structure 01 (Boron 基础连接结构 01)',
     macro: 'struct_bor_base_01_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -9150,7 +9150,7 @@ export const Modules = {
   module_bor_conn_base_02: {
     id: 'module_bor_conn_base_02',
     version: 1,
-    name: 'Boron Base Connection Structure 02',
+    name: 'Boron Base Connection Structure 02 (Boron 基础连接结构 02)',
     macro: 'struct_bor_base_02_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -9179,7 +9179,7 @@ export const Modules = {
   module_bor_conn_base_03: {
     id: 'module_bor_conn_base_03',
     version: 1,
-    name: 'Boron Base Connection Structure 03',
+    name: 'Boron Base Connection Structure 03 (Boron 基础连接结构 03)',
     macro: 'struct_bor_base_03_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -9208,7 +9208,7 @@ export const Modules = {
   module_bor_conn_base_04: {
     id: 'module_bor_conn_base_04',
     version: 1,
-    name: 'Boron Base Connection Structure 04',
+    name: 'Boron Base Connection Structure 04 (Boron 基础连接结构 04)',
     macro: 'struct_bor_base_04_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -9237,7 +9237,7 @@ export const Modules = {
   module_bor_conn_base_05: {
     id: 'module_bor_conn_base_05',
     version: 1,
-    name: 'Boron Base Connection Structure 05',
+    name: 'Boron Base Connection Structure 05 (Boron 基础连接结构 05)',
     macro: 'struct_bor_base_05_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -9266,7 +9266,7 @@ export const Modules = {
   module_bor_conn_cross_01: {
     id: 'module_bor_conn_cross_01',
     version: 1,
-    name: 'Boron Cross Connection Structure 01',
+    name: 'Boron Cross Connection Structure 01 (Boron 交叉连接结构 01)',
     macro: 'struct_bor_cross_01_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -9295,7 +9295,7 @@ export const Modules = {
   module_bor_conn_cross_02: {
     id: 'module_bor_conn_cross_02',
     version: 1,
-    name: 'Boron Cross Connection Structure 02',
+    name: 'Boron Cross Connection Structure 02 (Boron 交叉连接结构 02)',
     macro: 'struct_bor_cross_02_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -9324,7 +9324,7 @@ export const Modules = {
   module_bor_conn_vertical_01: {
     id: 'module_bor_conn_vertical_01',
     version: 1,
-    name: 'Boron Vertical Connection Structure 01',
+    name: 'Boron Vertical Connection Structure 01 (Boron 垂直连接结构 01)',
     macro: 'struct_bor_vertical_01_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -9353,7 +9353,7 @@ export const Modules = {
   module_bor_conn_vertical_02: {
     id: 'module_bor_conn_vertical_02',
     version: 1,
-    name: 'Boron Vertical Connection Structure 02',
+    name: 'Boron Vertical Connection Structure 02 (Boron 垂直连接结构 02)',
     macro: 'struct_bor_vertical_02_macro',
     description: 'No information available',
     type: ModuleTypes.connectionmodule,
@@ -9382,7 +9382,7 @@ export const Modules = {
   module_bor_def_claim_01: {
     id: 'module_bor_def_claim_01',
     version: 1,
-    name: 'Boron Administrative Centre',
+    name: 'Boron Administrative Centre (Boron 管理中心)',
     macro: 'defence_bor_claim_01_macro',
     description: 'No information available',
     type: ModuleTypes.defencemodule,
@@ -10058,7 +10058,7 @@ export const Modules = {
   module_bor_prod_medicalsupplies_01: {
     id: 'module_bor_prod_medicalsupplies_01',
     version: 1,
-    name: 'Boron Medical Supply Production',
+    name: 'Boron Medical Supply Production (Boron 医疗用品产线)',
     macro: 'prod_bor_medicalsupplies_macro',
     description: 'No information available',
     type: ModuleTypes.production,
@@ -10158,7 +10158,7 @@ export const Modules = {
   module_bor_stor_container_l_01: {
     id: 'module_bor_stor_container_l_01',
     version: 1,
-    name: 'Boron L Container Storage',
+    name: 'Boron L Container Storage (Boron L 集装存储)',
     macro: 'storage_bor_l_container_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -10204,7 +10204,7 @@ export const Modules = {
   module_bor_stor_container_m_01: {
     id: 'module_bor_stor_container_m_01',
     version: 1,
-    name: 'Boron M Container Storage',
+    name: 'Boron M Container Storage (Boron M 集装存储)',
     macro: 'storage_bor_m_container_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -10250,7 +10250,7 @@ export const Modules = {
   module_bor_stor_container_s_01: {
     id: 'module_bor_stor_container_s_01',
     version: 1,
-    name: 'Boron S Container Storage',
+    name: 'Boron S Container Storage (Boron S 集装存储)',
     macro: 'storage_bor_s_container_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -10290,7 +10290,7 @@ export const Modules = {
   module_bor_stor_liquid_l_01: {
     id: 'module_bor_stor_liquid_l_01',
     version: 1,
-    name: 'Boron L Liquid Storage',
+    name: 'Boron L Liquid Storage (Boron L 液体存储)',
     macro: 'storage_bor_l_liquid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -10336,7 +10336,7 @@ export const Modules = {
   module_bor_stor_liquid_m_01: {
     id: 'module_bor_stor_liquid_m_01',
     version: 1,
-    name: 'Boron M Liquid Storage',
+    name: 'Boron M Liquid Storage (Boron M 液体存储)',
     macro: 'storage_bor_m_liquid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -10382,7 +10382,7 @@ export const Modules = {
   module_bor_stor_liquid_s_01: {
     id: 'module_bor_stor_liquid_s_01',
     version: 1,
-    name: 'Boron S Liquid Storage',
+    name: 'Boron S Liquid Storage (Boron S 液体存储)',
     macro: 'storage_bor_s_liquid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -10422,7 +10422,7 @@ export const Modules = {
   module_bor_stor_solid_l_01: {
     id: 'module_bor_stor_solid_l_01',
     version: 1,
-    name: 'Boron L Solid Storage',
+    name: 'Boron L Solid Storage (Boron L 固体存储)',
     macro: 'storage_bor_l_solid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -10468,7 +10468,7 @@ export const Modules = {
   module_bor_stor_solid_m_01: {
     id: 'module_bor_stor_solid_m_01',
     version: 1,
-    name: 'Boron M Solid Storage',
+    name: 'Boron M Solid Storage (Boron M 固体存储)',
     macro: 'storage_bor_m_solid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,
@@ -10514,7 +10514,7 @@ export const Modules = {
   module_bor_stor_solid_s_01: {
     id: 'module_bor_stor_solid_s_01',
     version: 1,
-    name: 'Boron S Solid Storage',
+    name: 'Boron S Solid Storage (Boron S 固体存储)',
     macro: 'storage_bor_s_solid_01_macro',
     description: 'No information available',
     type: ModuleTypes.storage,

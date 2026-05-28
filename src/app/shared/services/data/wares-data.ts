@@ -8,7 +8,7 @@ export const Wares = {
   advancedcomposites: {
     id: 'advancedcomposites',
     version: 0,
-    name: 'Advanced Composites',
+    name: 'Advanced Composites(先进复合材料)',
     description: 'Formed from some of the refined resources collected from mining ships, advanced composites is a general term for many compounds created to serve several purposes; most commonly used in the production of a variety of equipment parts.',
     factoryName: 'Advanced Composite Factory',
     icon: 'ware_advancedcomposites',
@@ -343,7 +343,7 @@ export const Wares = {
   graphene: {
     id: 'graphene',
     version: 0,
-    name: 'Graphene',
+    name: 'Graphene(石墨烯)',
     description: 'Produced from refined and heavily modified methane gas in the modern era, graphene is a semi-metal that has many uncommon properties. Due to its strength and resistance to heat and electricity, it is used to produce a variety of tech-level resources, and is also used to help in the reinforcement of hull parts.',
     factoryName: 'Graphene Refinery',
     icon: 'ware_graphene',
@@ -370,7 +370,7 @@ export const Wares = {
   helium: {
     id: 'helium',
     version: 0,
-    name: 'Helium',
+    name: 'Helium(氦)',
     description: 'A colourless, odourless and non-toxic noble gas, helium is found in great abundance in gas nebulas across the entire Jump Gate network and is usually collected by mining ships to be refined into superfluid coolant.',
     factoryName: 'Helium Extractor',
     icon: 'ware_helium',
@@ -849,7 +849,7 @@ export const Wares = {
   refinedmetals: {
     id: 'refinedmetals',
     version: 0,
-    name: 'Refined Metals',
+    name: 'Refined Metals(精炼金属)',
     description: 'Refined from ore found in countless asteroids across the Jump Gate network, these refined metals are cheap to produce and easy to reinforce, making them perfect for use in constructing all kinds of Hull Parts, not just for ships and stations, but also for smaller components that used across all of space.',
     factoryName: 'Ore Refinery',
     icon: 'ware_refinedmetals',
@@ -972,7 +972,7 @@ export const Wares = {
   silicon: {
     id: 'silicon',
     version: 0,
-    name: 'Silicon',
+    name: 'Silicon(硅)',
     description: 'Silicon, required for the production of the most common types of silicon wafers, is usually mined or harvested from asteroids or other uninhabited celestial bodies.',
     factoryName: 'Silicon Mine',
     icon: 'ware_silicon',
@@ -1208,7 +1208,7 @@ export const Wares = {
   superfluidcoolant: {
     id: 'superfluidcoolant',
     version: 0,
-    name: 'Superfluid Coolant',
+    name: 'Superfluid Coolant(超流冷却剂)',
     description: 'Designed with superfluidity to ensure both efficiency and endurance, this coolant is used in complex technical components such as plasma conductors and quantum tubes to protect said components from overheating. The losslessness of kinetic energy afforded by the coolant\'s superfluidity means that it can continue to circulate around the component for a much longer time before needing to be recycled. This has led to such components lifetimes being greatly increased.',
     factoryName: 'Helium Refinery',
     icon: 'ware_superfluidcoolant',
